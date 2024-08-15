@@ -1,6 +1,6 @@
 {
   "Visibility": "VISIBLE",
-  "Title": "RANK",
+  "Title": "VERSION",
   "Description": "please update",
   "MainTextButton": "Update",
   "Cancelable": "true",
