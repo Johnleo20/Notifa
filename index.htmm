@@ -1,10 +1,10 @@
 {
   "Visibility": "VISIBLE",
-  "Title": "Test",
-  "Description": "Test Message",
+  "Title": "NEW VERSION",
+  "Description": "please update",
   "MainTextButton": "Update",
   "Cancelable": "true",
   "CancelButtonText": "Cancel",
-  "DownloadLink": "www.google.com",
+  "DownloadLink": "https://www.google.com/?sa=X&ved=0ahUKEwjqr9PNzPeHAxUnklYBHTPHGnAQOwgC",
   "Version": "1.1"
 }
